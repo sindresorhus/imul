@@ -1,6 +1,6 @@
 {
   "name": "imul",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ES6 Math.imul() ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/imul",
