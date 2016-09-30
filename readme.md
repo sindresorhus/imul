@@ -1,8 +1,6 @@
 # imul [![Build Status](https://travis-ci.org/sindresorhus/imul.svg?branch=master)](https://travis-ci.org/sindresorhus/imul)
 
-> ES2015 [`Math.imul()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul) ponyfill
-
-> Ponyfill: A polyfill that doesn't overwrite the native method
+> ES2015 [`Math.imul()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul) [ponyfill](https://ponyfill.com)
 
 
 ## Install
