@@ -1,4 +1,4 @@
-# imul [![Build Status](https://travis-ci.org/sindresorhus/imul.svg?branch=master)](https://travis-ci.org/sindresorhus/imul)
+# imul
 
 > ES2015 [`Math.imul()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul) [ponyfill](https://ponyfill.com)
 
